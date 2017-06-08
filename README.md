@@ -14,3 +14,14 @@
 ![](https://github.com/carisatinie/aoi-website/blob/master/og_color_scheme.PNG)
 HEX: FFFFFF, EB8255, 000000, 5A4691, C8C8C8
 
+### Dark Color Scheme
+![](https://github.com/carisatinie/aoi-website/blob/master/color_4.PNG)
+HEX: 494E6B, 98878F, 985E6D, 192231
+
+### Light Color Scheme
+![](https://github.com/carisatinie/aoi-website/blob/master/color_3.PNG)
+HEX: E7DFDF, A8A8A8, 5A4691
+
+## Font
+
+Sans-serif: Helvetica Neue
