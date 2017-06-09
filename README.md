@@ -27,6 +27,8 @@ HEX: 494E6B, 98878F, 985E6D, 192231
 
 HEX: E7DFDF, A8A8A8, 5A4691
 
-## Font
+## Mockups
 
-Sans-serif: Helvetica Neue
+#### Mockup 1: Bright Scheme (Version 1)
+
+![](https://github.com/carisatinie/aoi-website/blob/master/mockup1.png)
