@@ -37,6 +37,6 @@ HEX: E7DFDF, A8A8A8, 5A4691
 Colors: 5C468E (logo), 8E8E8E (text)
 
 #### Mockup 2: Image Header (Version 2)
-![](https://github.com/carisatinie/aoi-website/blob/master/mockup2.png)
+![](https://github.com/carisatinie/aoi-website/blob/master/mockup2.png | width = 200)
 
 - would change icons
