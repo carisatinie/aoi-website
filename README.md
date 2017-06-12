@@ -9,6 +9,7 @@
 - should be https
 - font too small
 - careers page outdated?
+- link to China website doesn't work
 
 ## Color Scheme
 
@@ -32,3 +33,5 @@ HEX: E7DFDF, A8A8A8, 5A4691
 #### Mockup 1: Bright Scheme (Version 1)
 
 ![](https://github.com/carisatinie/aoi-website/blob/master/mockup1.png)
+
+Colors: 5C468E (logo), 8E8E8E (text)
