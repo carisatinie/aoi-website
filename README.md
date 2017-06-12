@@ -30,13 +30,16 @@ HEX: E7DFDF, A8A8A8, 5A4691
 
 ## Mockups
 
-#### Mockup 1: Bright Scheme (Version 1)
-
-![](https://github.com/carisatinie/aoi-website/blob/master/mockup1.png)
+#### Mockup 1: Bright Scheme (Version 1) 
 
 Colors: 5C468E (logo), 8E8E8E (text)
 
+![](https://github.com/carisatinie/aoi-website/blob/master/mockup1.png)
+
 #### Mockup 2: Image Header (Version 2)
+
+Colors: 9D93AD, FFF6F6, 5A4691
+
 ![](https://github.com/carisatinie/aoi-website/blob/master/mockup2.png)
 
 - would change icons
