@@ -2,14 +2,18 @@
 [Visit the original website here.](http://ao-inc.com/)
 
 ## Issues
-
+#### Gathered from company employees:
 - color scheme is outdated and dark
-- location pages are redundant
+- some pages and information are redundant
 - images are pixelated and/or old
-- should be https
+- website is not secure (https)
 - font too small
-- careers page outdated?
-- link to China website doesn't work
+- careers page outdated
+
+## Solutions
+- First change the color scheme to a brighter one without changing the structure of the page.
+- Modern scrollable theme, similar to [Microsoft](microsoft.com) and [Cisco](cisco.com), for example.
+- Investors are our target audience, so make the website as informative and clear as possible.
 
 ## Color Scheme
 
