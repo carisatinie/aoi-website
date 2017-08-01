@@ -34,11 +34,19 @@ HEX: E7DFDF, A8A8A8, 5A4691
 
 ## Mockups
 
+Features:
+- Responsive design
+- Homepage succintly lists what the company does and the types of products the company makes
+- "Invest" tab for all information investors may need
+- Modern scrollable design
+
+
 #### Mockup 1: Bright Scheme (Version 1) 
 
 Colors: 5C468E (logo), 8E8E8E (text)
 
 ![](https://github.com/carisatinie/aoi-website/blob/master/mockup1_resize.png)
+
 
 #### Mockup 2: Image Header (Version 2)
 
